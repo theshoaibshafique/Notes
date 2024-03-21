@@ -21,3 +21,13 @@ If we have data that is skewed to one side it creates problems for a **Linear Mo
 
 `np.log1p()` Return the natural logarithm of one plus the input array, element-wise.
 
+## Random Forest
+
+For More detail See:
+* https://www.youtube.com/watch?v=AdhG64NF76E&t=350s
+* https://github.com/fastai/fastbook/blob/master/09_tabular.ipynb
+
+For **Tabular Data** Random Forests Mostly do very well.
+
+Also If you have multiple **columns/features** you can get the most important/useful ones using `feature_importances_`
+
